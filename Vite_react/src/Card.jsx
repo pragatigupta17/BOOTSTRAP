@@ -7,7 +7,7 @@ const Card = () => {
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
             perspiciatis quia, quisquam, quam eligendi accusamus voluptate, illo
-            excepturi iure maiores itaque dignissimos deleniti dolores iusto
+            excepturi iure maiores itaque dignissimos deleniti dolores iusto 
             molestias debitis maxime culpa? Laudantium voluptatem nulla eaque
             possimus, error eos culpa recusandae suscipit esse ullam. Deleniti
             nesciunt laborum quis neque doloribus nemo perspiciatis eligendi.
